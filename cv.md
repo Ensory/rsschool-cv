@@ -13,7 +13,6 @@ Starting to learn web-development in Hexlet and RSSchool.
 * JavaScipt (Basic)
 * Python (Basic)
 * Git
-
 ## Education:
-* Hexlet
-* HTML Academy
+1. Hexlet
+2. HTML Academy
