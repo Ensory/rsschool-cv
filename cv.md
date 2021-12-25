@@ -5,13 +5,15 @@
 ### Email: ensory@gmail.com
 ### Telegram: @ensory
 ## About me:
-Starting to learn web-development in Hexlet.
+Starting to learn web-development in Hexlet and RSSchool.
+
 ## Skills:
 * HTML
 * CSS
 * JavaScipt (Basic)
 * Python (Basic)
 * Git
+
 ## Education:
 * Hexlet
 * HTML Academy
