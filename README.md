@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ensory.github.io/rsschool-cv/cv
